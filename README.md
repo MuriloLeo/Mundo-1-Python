@@ -21,6 +21,6 @@ Mundo 1 do curso de Python do Gustavo Guanabara
 3.  Navegue até a pasta do exercício desejado.
 4.  Execute o arquivo Python usando o terminal:
 
-    ```bash
+  ```bash
     python nome_do_arquivo.py
-    ```
+  ```
