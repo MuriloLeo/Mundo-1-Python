@@ -14,3 +14,13 @@ Mundo 1 do curso de Python do Gustavo Guanabara
     - Métodos para análise, transformação e contagem de strings.
 - **Estruturas Condicionais:**
     - Aplicação de `if`, `elif` e `else` para criar lógicas de decisão.
+
+## ▶️ Como executar os exercícios
+1.  Certifique-se de ter o Python instalado na sua máquina.
+2.  Clone este repositório para o seu ambiente local.
+3.  Navegue até a pasta do exercício desejado.
+4.  Execute o arquivo Python usando o terminal:
+
+    ```bash
+    python nome_do_arquivo.py
+    ```
